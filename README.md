@@ -10,6 +10,7 @@ A responsive Spotify clone built using HTML, CSS, and JavaScript.
 - Navigation Bar
 - Responsive design
 - Modern UI
+- Immersive hover effects
 
 ## Technologies Used
 - HTML
